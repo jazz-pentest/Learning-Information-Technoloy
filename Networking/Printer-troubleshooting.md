@@ -3,7 +3,7 @@
 ## Problem
 Admin could ping the printer, but the computer could not detect it.
 
-##Troubleshooting steps
+## Troubleshooting steps
 - Verified printer power and network connection
 - Pinged printer IP to confirm network reachability
 - Checked printer port configuration
