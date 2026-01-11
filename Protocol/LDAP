@@ -1,21 +1,32 @@
 # Lightweight Directory Access Protocol
 
 # What is its purpose?
-A sentence or two explanation 
+- Used to access and managed a directory services
+- Port 389
 
 ## It Supports
-What can pair with this, that it doesnt come equipt with 
+- ssh 
+- AD (Active Directory)
 
 ## It's Services
-What does this come with
+- Get info on:
+  - users 
+  - devices
+  - groups
+  - permissions
+  - passwords
 
 ## It's Security
-How is it protected
-- Layered defense?
+- Authentication
+- Authorization
 
-## Protects against 
-What threat does it elimanate 
+## Vulnerabilities
+- LDAP hijacking
+- On path attacks
+- Stored in plaintext
+- Enumeration attacks
 
 ## Lesson Learned
-Put here the question you asked when creating your notes. 
-   - a short description of your answer
+- When LDAP is in secure mode (over ssh) it turns into XLDAP
+ - port number now 636
+
