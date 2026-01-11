@@ -17,6 +17,11 @@ How is it protected
 ## Protects against 
 What threat does it elimanate 
 
+## Vulnerabilities
+- Whats the attack surface
+- what attacks works
+- where does security lack
+
 ## Lesson Learned
 Put here the question you asked when creating your notes. 
    - a short description of your answer
