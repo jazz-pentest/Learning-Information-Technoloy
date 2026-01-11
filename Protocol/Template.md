@@ -1,18 +1,18 @@
 # What is its purpose?
-one sentence or two explanation 
+A sentence or two explanation 
 
 ## It Supports
-what can pair with this, that it doesnt come equipted with 
+What can pair with this, that it doesnt come equipt with 
 
 ## It's Services
-what does this come with
+What does this come with
 
 ## It's Security
-How is it protectedf
+How is it protected
 - Layered defense?
 
 ## Protects against 
-what threat does it elimanate 
+What threat does it elimanate 
 
 ## Lesson Learned
 Put here the question you asked when creating your notes. 
